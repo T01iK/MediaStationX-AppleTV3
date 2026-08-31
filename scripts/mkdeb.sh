@@ -19,7 +19,7 @@ Version: ${VERSION}
 Architecture: iphoneos-arm
 Description: Media Station X as a standalone appliance for the Apple TV 3
 Homepage: https://msx.benzac.de/
-Maintainer: local build
+Maintainer: Anatoliy Shulika
 Author: Benjamin Zachey (Media Station X)
 Section: Multimedia
 Depends: firmware (>= 7.0)
